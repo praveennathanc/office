@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/office/static/css/main.451fef36.chunk.css",
-    "main.js": "/office/static/js/main.d240ec66.chunk.js",
-    "main.js.map": "/office/static/js/main.d240ec66.chunk.js.map",
+    "main.js": "/office/static/js/main.b34f91a4.chunk.js",
+    "main.js.map": "/office/static/js/main.b34f91a4.chunk.js.map",
     "runtime-main.js": "/office/static/js/runtime-main.f2342365.js",
     "runtime-main.js.map": "/office/static/js/runtime-main.f2342365.js.map",
     "static/js/2.bea47c45.chunk.js": "/office/static/js/2.bea47c45.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.f2342365.js",
     "static/js/2.bea47c45.chunk.js",
     "static/css/main.451fef36.chunk.css",
-    "static/js/main.d240ec66.chunk.js"
+    "static/js/main.b34f91a4.chunk.js"
   ]
 }
