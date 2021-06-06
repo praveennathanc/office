@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/office/static/css/main.451fef36.chunk.css",
+    "main.js": "/office/static/js/main.d0fe8b3b.chunk.js",
+    "main.js.map": "/office/static/js/main.d0fe8b3b.chunk.js.map",
+    "runtime-main.js": "/office/static/js/runtime-main.f2342365.js",
+    "runtime-main.js.map": "/office/static/js/runtime-main.f2342365.js.map",
+    "static/js/2.bea47c45.chunk.js": "/office/static/js/2.bea47c45.chunk.js",
+    "static/js/2.bea47c45.chunk.js.map": "/office/static/js/2.bea47c45.chunk.js.map",
+    "static/js/3.63d9dfb0.chunk.js": "/office/static/js/3.63d9dfb0.chunk.js",
+    "static/js/3.63d9dfb0.chunk.js.map": "/office/static/js/3.63d9dfb0.chunk.js.map",
+    "index.html": "/office/index.html",
+    "static/css/main.451fef36.chunk.css.map": "/office/static/css/main.451fef36.chunk.css.map",
+    "static/js/2.bea47c45.chunk.js.LICENSE.txt": "/office/static/js/2.bea47c45.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/office/static/media/SamsungSharpSans-Bold.31f78a3f.woff",
+    "static/media/manwithcomputer.1120b04a.png": "/office/static/media/manwithcomputer.1120b04a.png",
+    "static/media/manwithphone.f72deb8c.png": "/office/static/media/manwithphone.f72deb8c.png",
+    "static/media/womenwithspeaker.d75520c5.png": "/office/static/media/womenwithspeaker.d75520c5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2342365.js",
+    "static/js/2.bea47c45.chunk.js",
+    "static/css/main.451fef36.chunk.css",
+    "static/js/main.d0fe8b3b.chunk.js"
+  ]
+}
